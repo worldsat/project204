@@ -1,0 +1,131 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/banner1.png?alt=media&token=f3cb674a-8c36-4360-8fc7-561dc5745b2b"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner2.png?alt=media&token=2c2a98de-2240-4130-8a89-7fbe7e49fa21"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cupCake.png?alt=media&token=cfa60b5e-a909-4557-a3cd-ee4d617722fa",
+      "title": "Cup Cakes"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/Pastries.png?alt=media&token=88880c97-bc9f-47a0-8130-ad27af46b9db",
+      "title": "Pastries"
+    },
+ {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cookie.png?alt=media&token=d6fcab01-42c4-481e-9694-2bfe848bdc92",
+      "title": "Coockies"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/donut.png?alt=media&token=d15609a6-45a4-4d10-9fe2-238c284987ec",
+      "title": "Donuts"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/bread.png?alt=media&token=ec7c97f9-68f3-4267-b8d5-391abf240b7c",
+      "title": "Breads"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "picUrl": [
+      "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cat1_0.jpg?alt=media&token=48266973-43c8-4531-a9cf-39a44d50c43c",
+        "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cat1_1.jpg?alt=media&token=83674347-1a2b-462f-866c-aede58fcf50f",
+        "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cat1_2.jpg?alt=media&token=e7ef711a-158e-4ec8-b591-8ef6de3201da",
+        "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cat1_3.jpg?alt=media&token=f39686d7-499f-4915-8399-03ae39ac4ca3",
+        "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cat1_4.jpg?alt=media&token=2bea1d0e-4c15-4dbd-9120-fdc804b9cab0"
+
+      ],
+      "price": 230,
+      "categoryId":0,
+      "rating": 4.6,
+      "sellerName": "Sara Brown",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/profile.png?alt=media&token=81afc0a3-38aa-4251-90ac-76e7a35c0978",
+      "sellerTell": 123456789,
+      "size": [
+      "1 Kg",
+        "2 Kg",
+        "3 Kg",
+        "5 Kg",
+        "10 Kg",
+        "20 Kg"
+
+      ],
+      "title": "Chocolate cake with cream"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "picUrl": [
+         "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cake4.jpg?alt=media&token=80563c4f-19a6-436e-b2f7-20402b418d09"
+
+      ],
+      "price": 165,
+      "rating": 4.7,
+          "categoryId":0,
+      "sellerName": "Jemmy Hanks",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/profile1.png?alt=media&token=2a2b25ac-4c77-4841-9352-75759c5c5106",
+      "sellerTell": 123456789,
+      "size": [
+        "1 Kg",
+        "2 Kg",
+        "3 Kg",
+        "5 Kg",
+        "10 Kg",
+        "20 Kg"
+      ],
+      "title": "Chocolate cake"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cake5.jpg?alt=media&token=f96dd7b9-05aa-4d96-90d6-c2f3b1e6f735"
+      ],
+      "price": 99,
+      "rating": 4.5,
+          "categoryId":0,
+      "sellerName": "Betty Cuthbert",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/profile2.png?alt=media&token=e5fb2c62-d631-4e4e-8060-9dd57426967a",
+      "sellerTell": 123456789,
+      "size": [
+         "1 Kg",
+        "2 Kg",
+        "3 Kg",
+        "5 Kg",
+        "10 Kg",
+        "20 Kg"
+
+      ],
+      "title": "Tiramisu Cake"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/cake2.jpg?alt=media&token=5a1b6ac2-d533-40f1-940c-a748394088be"
+      ],
+      "price": 65,
+      "rating": 4.2,
+      "categoryId":0,
+      "sellerName": "Alex Anderson",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/project204-1.appspot.com/o/profile3.png?alt=media&token=28a4c481-6b4f-4d7d-b2fd-65003d689e1c",
+      "sellerTell": 123456789,
+      "size": [
+        "1 Kg",
+        "2 Kg",
+        "3 Kg",
+        "5 Kg",
+        "10 Kg",
+        "20 Kg"
+      ],
+      "title": "Berry Cake"
+    }
+  ]
+}
